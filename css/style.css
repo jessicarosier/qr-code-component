@@ -20,11 +20,10 @@ body {
     min-height: 100vh;
     display: flex;
     justify-content: center;
-    align-content: center;
+    align-items: center;
 }
 
 .main-content {
-    margin-top: 100px;
     max-height: 750px;
     max-width: 500px;
     background-color: var(--white);
